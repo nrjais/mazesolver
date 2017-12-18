@@ -1,0 +1,27 @@
+td {
+  width:10px;
+  height:10px;
+  border: none;
+  padding: 0px;
+}
+
+table {
+  border-collapse : collapse;
+}
+
+.closed{
+  background-color : black;
+}
+
+.path{
+  background-color : blue;
+}
+
+.open{
+  background-color : white;
+}
+
+.input{
+  width:80px;
+  height:30px;
+}
